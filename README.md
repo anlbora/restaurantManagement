@@ -14,26 +14,25 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 
 ### Food Management
 
-- **View All Foods**: Displays a comprehensive list of all registered users.
-- **Add Foods**: Enables the addition of new user accounts.
-- **Update Foods**: Allows modification of existing user information.
-- **Delete Foods**: Facilitates the removal of user accounts after authentication.
+- **View All Foods**: Displays a comprehensive list of all registered foods.
+  ![4](https://github.com/anlbora/restaurantManagement/assets/100442507/8b4537d7-da12-4f05-bc18-178e64671c68)
+- **Add Foods**: Enables the addition of new foods.
+- **Update Foods**: Allows modification of existing food information.
+- **Delete Foods**: Facilitates the removal of food.
 
 ### Drink Management
 
-- **View All Drinks**: Presents a list of all registered directors.
-- **Add Drinks**: Allows the addition of new director profiles.
-- **Update Drinks**: Permits updates to existing director details.
-- **Delete Drinks**: Enables the deletion of director profiles from the database.
+- **View All Drinks**: Presents a list of all registered drinks.
+- **Add Drinks**: Allows the addition of new drinks.
+- **Update Drinks**: Permits updates to existing drink details.
+- **Delete Drinks**: Enables the deletion of drinks from the database.
 
 ### Order Management
 
-- **View All Orders**: Displays a table containing information on all movies in the database.
+- **View All Orders**: Displays a table containing information on all orders in the database.
   ![3](https://github.com/anlbora/restaurantManagement/assets/100442507/13d38ec6-cada-4960-8839-a527fabb4c7d)
-- **Add Orders**: Facilitates the addition of new movie entries.
-- **Update Orders**: Allows modifications to existing movie details.
-- **Delete Orders**: Permits the removal of movies from the database
-
+- **Add Orders**: Facilitates the addition of new order entries.
+  
 ## Requirements
 
 - Python
