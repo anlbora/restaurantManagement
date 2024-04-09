@@ -29,6 +29,7 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 ### Order Management
 
 - **View All Orders**: Displays a table containing information on all movies in the database.
+  ![3](https://github.com/anlbora/restaurantManagement/assets/100442507/13d38ec6-cada-4960-8839-a527fabb4c7d)
 - **Add Orders**: Facilitates the addition of new movie entries.
 - **Update Orders**: Allows modifications to existing movie details.
 - **Delete Orders**: Permits the removal of movies from the database
