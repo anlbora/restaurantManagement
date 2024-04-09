@@ -54,5 +54,4 @@ Main Window lets the admin do various types of actions on Foods, Drinks and Orde
 ## Usage
 
 1. Launch the application by running `main.py`.
-2. Sign up for a new account or log in with an existing account.
-3. Use the respective buttons in the MainWindow to manage foods, drinks, and orders.
+2. Use the respective buttons in the MainWindow to manage foods, drinks, and orders.
