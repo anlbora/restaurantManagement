@@ -7,7 +7,7 @@ The Restaurant Management Program is a PyQt5-based desktop application designed 
 ## Features
 
 ### Main Window
-Admin panel lets the admin do various types of actions on Users, Movies and Directors such as **View, Add, Update and Delete.** Admin Panel's methods have their own explanations in the code. All methods have exception handling not to break down the program. 
+Main Window lets the admin do various types of actions on Foods, Drinks and Orders such as **View, Add, Update and Delete.** Main Window's methods have their own explanations in the code. All methods have exception handling not to break down the program. 
 
 ![1](https://github.com/anlbora/restaurantManagement/assets/100442507/42d53e76-2432-4891-838c-e0d44f6b78b4)
 ![2](https://github.com/anlbora/restaurantManagement/assets/100442507/ad08c70c-e20b-4cc4-975f-df370a678ccc)
