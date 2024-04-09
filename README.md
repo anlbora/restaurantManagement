@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Restaurant Management Program is a PyQt5-based desktop application designed to manage and organize information about orders, foods, and drinks to be used by user. It provides functionalities for adding, editing, deleting, and viewing orders, foods, drinks' details. The program utilizes an SQLite database to store and manage data.
+The Restaurant Management Program is a PyQt5-based desktop application designed to manage and organize information about orders, foods, and drinks. It provides functionalities for adding, editing, deleting, and viewing orders, foods, drinks' details. The program utilizes an SQLite database to store and manage data.
 
 ## Features
 
