@@ -14,7 +14,6 @@ Admin panel lets the admin do various types of actions on Users, Movies and Dire
 ### Food Management
 
 - **View All Foods**: Displays a comprehensive list of all registered users.
-  ![14](https://github.com/anlbora/movieLibrary/assets/100442507/6898efba-ea78-465c-ae53-fd0170ccd1ad)
 - **Add Foods**: Enables the addition of new user accounts.
 - **Update Foods**: Allows modification of existing user information.
 - **Delete Foods**: Facilitates the removal of user accounts after authentication.
