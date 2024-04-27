@@ -330,6 +330,7 @@ class Ui_MainWindow(object):
             # Retrieve food details from GUI input fields
             name = self.name_food.text()
             price = int(self.price_food.text())
+            ingredients = self.ingredients_food.toPlainText()
 
             # Initialize Orders object
             order = Orders()
@@ -341,7 +342,7 @@ class Ui_MainWindow(object):
             food = Food()
             
             # Update food product
-            food.update_product(product_id, name, price)
+            food.update_product(product_id, name, price, ingredients)
             self.clearFoodFields()
         
         except ValueError:
